@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.krohina.lab1"},{"l":"com.krohina.lab2"},{"l":"com.krohina.lab3"},{"l":"com.krohina.lab4"},{"l":"com.krohina.lab4.entities"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.krohina.lab1"},{"l":"com.krohina.lab2"},{"l":"com.krohina.lab3"},{"l":"com.krohina.lab4"},{"l":"com.krohina.lab4.entities"},{"l":"com.krohina.lab5"},{"l":"com.krohina.lab5.reflection"}];updateSearchResults();
